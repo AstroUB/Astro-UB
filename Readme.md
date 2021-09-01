@@ -24,10 +24,8 @@
 ![Repo Size](https://img.shields.io/github/repo-size/AstroUB/Astro-UB?style=flat-square)
 <br>
 <a href="https://github.com/AstroUB/Astro-UB"><img src="https://img.shields.io/github/last-commit/AstroUB/Astro-UB?style=flat-square"></a></p>
-<
-<a href="https://github.com/AstroUB/Astro-UB"><img src="https://img.shields.io/github/last-commit/AstroUB/Astro-UB?style=flat-square"></a></p>
 <br>
-<a href="https://github.com/AstroUB/Astro-UB"><img src="https://img.shields.io/github/last-commit/AstroUB/Astro-UB?style=flat-square"></a></p>
+
 
 
 ### DON'T FORGET TO GIVE STAR🌟
