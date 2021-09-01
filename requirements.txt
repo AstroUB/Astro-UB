@@ -77,5 +77,5 @@ langdetect
 fontTools
 pdf2docx
 covid
-https://github
+
  
