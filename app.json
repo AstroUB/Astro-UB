@@ -1,0 +1,117 @@
+{
+  "name": "ASTRO🌌UserBot🇮🇳",
+  "description": "A plugable userbot with lots of features and special security modules",
+  "logo": "https://telegra.ph/file/b1f217e58d67de4af1ab2.jpg",
+   "keywords": [
+  "telegram", 
+  "userbot", 
+  "astro",
+  "plugable"
+ ],
+ "repository": "https://github.com/AstroUB/Astro-UB",
+  "website": "https://github.com/loverboyXD",
+  "env": {
+   "ENV": {
+    "description": "Setting this to ANYTHING will enable heroku.",
+    "value": "ANYTHING"
+  },
+  "API_ID": {
+    "description": "Your Api_id get from @Api_ScrapperRoBot or my.telegram.org",
+    "value": "",
+    "required": true
+  },
+  "API_HASH": {
+    "description": "Your Api_Hash get from @Api_ScrapperRoBot or my.telegram.org",
+    "value": "",
+    "required": true
+  },
+  "STRING_SESSION": {
+    "description": "A TELETHON string session get from https://replit.com/@loverboyXD/SESSIONSTRING-GEN#main.py",
+    "value": "",
+    "required": true
+  },
+  "OWNER_ID": {
+    "description": "Your Telegram Account id get from @Lovishmanager_bot",
+    "value": ""
+  },
+  "OWNER_USERNAME": {
+    "description": "Your Telegram Account Username with '@' ",
+    "value": ""
+  },
+  "BOT_TOKEN": {
+    "description": "Your Bot Token get from @Botfather ",
+    "value": ""
+  },
+  "BOT_USERNAME": {
+    "description": "Your bot username with '@' get from @BotFather",
+    "value": ""
+  },
+  "HEROKU_API_KEY": {
+    "description": "Your Heroku account Api_key..Needed to run Updater",
+    "value": ""
+  },
+  "HEROKU_APP_NAME": {
+    "description": "Your App name paste Here also",
+    "value": ""
+  },
+  "PRIVATE_GROUP_ID": {
+    "description": "A Private group Where You will get Your Account updates via your bot...IT MUST START FROM -100",
+    "value": ""
+  },
+  "BOT_PIC": {
+    "description": "A telegraph link of picture which you wanna to show in Assistant bot",
+    "value": "",
+    "required": false
+  },
+  "PM_PIC": {
+    "description": "Telegraph link of picture that you wanna to show in PM_SECURITY",
+    "value": "",
+    "required": false
+  },
+  "PM_TEXT": {
+    "description": "Text Which you wanna to show in PM_SECURITY",
+    "value": "",
+    "required": false
+  },
+  "HNDLR": {
+    "description": "Your Command Hander of ASTRO leave it as it is for (dot)",
+    "value": "",
+    "required": false
+  },
+  "NAME": {
+    "description": "Your name which You wanna to show in Alive",
+    "value": "",
+    "required": false
+  },
+  "A_TEXT": {
+    "description": "TEXT Which you wanna to show in Alive ",
+    "value": "",
+    "required": false
+  },
+  "A_PIC": {
+    "description": " telegraph link of Picture that you wanna to show in Alive",
+    "value": "",
+    "required": false
+  },
+  "SUDO_USER": {
+    "description": "Id of those to whom you wanna to assign as Sudo users",
+    "value": "",
+    "required": false
+  },
+  "SUDO_HNDLR": {
+    "description": "command Handler of sudo users",
+    "value": "",
+    "required": false
+    }
+  },
+  "addons": [{
+    "plan": "heroku-postgresql",
+    "options": {
+      "version": "12"
+    }
+  }],
+  "buildpacks": [{
+    "url": "heroku/python"
+  }]
+}
+ 
