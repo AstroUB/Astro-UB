@@ -14,15 +14,22 @@
 <br>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/AstroUB/Astro-UB)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/AstroUB/Astro-UB#copyright--license)
-[![Stars](https://img.shields.io/github/stars/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/stargazers)
+
 [![Python 3.6](https://img.shields.io/badge/Python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![Forks](https://img.shields.io/github/forks/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/network/members)
+
 [![Issues Open](https://img.shields.io/github/issues/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/issues)
 [![Issues Closed](https://img.shields.io/github/issues-closed/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/issues?q=is:closed)
 [![PR Open](https://img.shields.io/github/issues-pr/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/pulls)
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/AstroUB/Astro-UB?&style=flat-square)](https://github.com/AstroUB/Astro-UB/pulls?q=is:closed)
 ![Repo Size](https://img.shields.io/github/repo-size/AstroUB/Astro-UB?style=flat-square)
 <br>
+<a href="https://github.com/AstroUB/Astro-UB"><img src="https://img.shields.io/github/last-commit/AstroUB/Astro-UB?style=flat-square"></a></p>
+<
+<a href="https://github.com/AstroUB/Astro-UB"><img src="https://img.shields.io/github/last-commit/AstroUB/Astro-UB?style=flat-square"></a></p>
+<br>
+<a href="https://github.com/AstroUB/Astro-UB"><img src="https://img.shields.io/github/last-commit/AstroUB/Astro-UB?style=flat-square"></a></p>
+
+
 ### DON'T FORGET TO GIVE STAR🌟
 
 ## Why to Choose Astro🌌UserBot🤔?
