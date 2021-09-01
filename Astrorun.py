@@ -6,5 +6,5 @@ system(
 # if something is wrong 
 print("You Have Got Error While Deployment Report and Get Help from @Astro_HelpChat")
 # Script written for stop heroku suspension 
-# To Stop app creation failed problem BY @CriminaL786
+# PRIVATE CODES
  
