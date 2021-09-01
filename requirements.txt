@@ -78,3 +78,4 @@ fontTools
 pdf2docx
 covid
 git + https://github.com/AstroUB/Fonts
+ 
