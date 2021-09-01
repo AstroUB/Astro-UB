@@ -1,5 +1,5 @@
 {
-  "name": "ASTRO🌌UserBot🇮🇳",
+  "name": "ƛsτʀ๏🌌UserBot🇮🇳",
   "description": "A plugable userbot with lots of features and special security modules",
   "logo": "https://telegra.ph/file/b1f217e58d67de4af1ab2.jpg",
    "keywords": [
@@ -97,6 +97,11 @@
     "description": "Id of those to whom you wanna to assign as Sudo users",
     "value": "",
     "required": false
+  },
+  "SPAMWATCH_API_KEY": {
+    "description": "Get From @SpamWatchBot",
+    "value": "",
+    "required": false 
   },
   "SUDO_HNDLR": {
     "description": "command Handler of sudo users",
