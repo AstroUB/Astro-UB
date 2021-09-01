@@ -22,7 +22,7 @@
 [![Issues Closed](https://img.shields.io/github/issues-closed/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/issues?q=is:closed)
 [![PR Open](https://img.shields.io/github/issues-pr/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/pulls)
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/AstroUB/Astro-UB?&style=flat-square)](https://github.com/AstroUB/Astro-UB/pulls?q=is:closed)
-![Repo Size](https://img.shields.io/github/repo-size/?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/AstroUB/Astro-UB?style=flat-square)
 <br>
 ### DON'T FORGET TO GIVE STAR🌟
 
