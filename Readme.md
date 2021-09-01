@@ -15,18 +15,19 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/AstroUB/Astro-UB)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/AstroUB/Astro-UB#copyright--license)
 [![Python 3.6](https://img.shields.io/badge/Python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-<a href="https://github.com/AstroUB/Astro-UB/stargazers"><img src="https://img.shields.io/github/stars/AstroUB/Astro-UB?style=social"></a> <br> 
-# Fᴏʀᴋ ᴀɴᴅ sᴛᴀʀs
+ <br> 
+# Fᴏʀᴋ ᴀɴᴅ sᴛᴀʀs 
+<a href="https://github.com/AstroUB/Astro-UB/stargazers"><img src="https://img.shields.io/github/stars/AstroUB/Astro-UB?style=social"></a> 
 <a href="https://github.com/AstroUB/Astro-UB/fork"><img src="https://img.shields.io/github/forks/AstroUB/Astro-UB?label=Fork&logoColor=blue&style=social"></a> <br> 
 # Mᴀɪɴᴛᴇɴᴀɴᴄᴇ Sᴛᴀᴛs
 [![Issues Open](https://img.shields.io/github/issues/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/issues)
-[![Issues Closed](https://img.shields.io/github/issues-closed/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/issues?q=is:closed)
+[![Issues Closed](https://img.shields.io/github/issues-closed/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/issues?q=is:closed) <br>
 [![PR Open](https://img.shields.io/github/issues-pr/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/AstroUB/Astro-UB?&style=flat-square)](https://github.com/AstroUB/Astro-UB/pulls?q=is:closed)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/AstroUB/Astro-UB?&style=flat-square)](https://github.com/AstroUB/Astro-UB/pulls?q=is:closed) <br>
 ![Repo Size](https://img.shields.io/github/repo-size/AstroUB/Astro-UB?style=flat-square)
-
-<br>
 <a href="https://github.com/AstroUB/Astro-UB"><img src="https://img.shields.io/github/last-commit/AstroUB/Astro-UB?style=flat-square"></a></p>
+
+
 
 <br>
 
