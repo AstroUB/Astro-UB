@@ -93,7 +93,7 @@
     "value": "",
     "required": false
   },
-  "SUDO_USER": {
+  "SUDO_USERS": {
     "description": "Id of those to whom you wanna to assign as Sudo users",
     "value": "",
     "required": false
