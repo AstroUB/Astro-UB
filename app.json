@@ -98,6 +98,11 @@
     "value": "",
     "required": false
   },
+  "REM_BG_API_KEY": {
+    "description": "Needed to run Module of REMOVE BACKGROUND get from https://www.remove.bg/",
+    "value": "",
+    "required": false 
+  },
   "SPAMWATCH_API_KEY": {
     "description": "Get From @SpamWatchBot",
     "value": "",
