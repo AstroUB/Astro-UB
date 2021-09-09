@@ -93,6 +93,11 @@
     "value": "",
     "required": false
   },
+  "TZ": {
+    "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+    "value": "",
+    "required": false 
+  },
   "SUDO_USERS": {
     "description": "Id of those to whom you wanna to assign as Sudo users",
     "value": "",
