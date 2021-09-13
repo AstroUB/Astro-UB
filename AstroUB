@@ -3,7 +3,7 @@
 
 _get_repolink () {
     local regex
-    regex='(https?)://github.com/.+/.+'
+    regex='(https?)://gitlab.com/.+/.+'
     if [[ $ASTRO_REPO == "ASTRObot" ]]
     then
         echo "aHR0cHM6Ly9naXRsYWIuY29tL2xvdmVyYm95WEQvQXN0cm9VQi8tL2FyY2hpdmUvbWFpbi9Bc3Ryb1VCLW1haW4uemlw" | base64 -d
