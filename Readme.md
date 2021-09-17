@@ -107,7 +107,7 @@ virtualenv -p /usr/bin/python3 venv
 # install requirements 
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m Astrorun.py
+bash AstroUB
 
 ```
 ### Mandatory Vars 🔌
