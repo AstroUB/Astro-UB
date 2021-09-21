@@ -8,7 +8,8 @@ python-magic
 telethon-session-sqlalchemy
 pyseoanalyzer
 glitch_this
-PyGithub
+PyGithub 
+carbonnow
 pytesseract
 telethon
 wget
