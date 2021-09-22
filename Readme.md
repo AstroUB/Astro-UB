@@ -9,16 +9,39 @@
 </p>
 
 <b><h4> ASTRO IS A POWNERFULL, USEFULL TELETHON USERBOT</h4></b>
-<br>
+<br> 
+
+<hr>
+</hr> 
+
 <i><h3> 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝙱𝙾𝚃 </h3></i>
 <br>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/AstroUB/Astro-UB)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/AstroUB/Astro-UB#copyright--license)
 [![Python 3.6](https://img.shields.io/badge/Python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
- <br> 
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/AstroUB/Astro-UB/graphs/commit-activity) 
+[![GitHub license](https://img.shields.io/github/license/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/blob/main/LICENSE) 
+[![GitHub contributors](https://img.shields.io/github/contributors/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://GitHub.com/AstroUB/Astro-UB/graphs/contributors/)
+<p align="center">
+
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/graphs/commit-activity)
+
+
+
+
+  
+
+
+<br/>
+<hr> 
+</hr> 
+
 # Fᴏʀᴋ ᴀɴᴅ sᴛᴀʀs 
 <a href="https://github.com/AstroUB/Astro-UB/stargazers"><img src="https://img.shields.io/github/stars/AstroUB/Astro-UB?style=social"></a> 
-<a href="https://github.com/AstroUB/Astro-UB/fork"><img src="https://img.shields.io/github/forks/AstroUB/Astro-UB?label=Fork&logoColor=blue&style=social"></a> <br> 
+<a href="https://github.com/AstroUB/Astro-UB/fork"><img src="https://img.shields.io/github/forks/AstroUB/Astro-UB?label=Fork&logoColor=blue&style=social"></a> <br>  
+<hr/> 
+
 # Mᴀɪɴᴛᴇɴᴀɴᴄᴇ Sᴛᴀᴛs
 [![Issues Open](https://img.shields.io/github/issues/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/issues)
 [![Issues Closed](https://img.shields.io/github/issues-closed/AstroUB/Astro-UB?&style=flat-square)]( https://github.com/AstroUB/Astro-UB/issues?q=is:closed) <br>
@@ -27,7 +50,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/AstroUB/Astro-UB?style=flat-square)
 <a href="https://github.com/AstroUB/Astro-UB"><img src="https://img.shields.io/github/last-commit/AstroUB/Astro-UB?style=flat-square"></a></p>
 
-
+<hr/>
 
 <br>
 
