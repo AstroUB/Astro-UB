@@ -81,4 +81,4 @@ covid
  
 PyPDF2
 imutils
-skimage
+
