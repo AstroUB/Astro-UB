@@ -93,7 +93,17 @@ height="40px" width="200px" alt="heroku" /></a>
       
 ## 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 
    <a href="https://replit.com/@loverboyXD/SESSIONSTRING-GEN#main.py" target="_blank"><img src="https://img.shields.io/badge/run-string%20session-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
-   
+
+## Vɪᴀ Tᴇʀᴍɪɴᴀʟ
+- Open the terminal.
+- Paste this code.
+`rm -rf Astro-UB && pkg install python git && git clone https://github.com/AstroUB/Astro-Session && pip install telethon python-dotenv && cd Astro-Session/session && bash string.sh`
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- If You have Enabled 2-Step Verification then fill your password.
+- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
+- Your AstroUB Session Will be saved in your Telegram Saved Message.
+
 ## 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃
 <a href="https://telegra.ph/HOW-TO-GET-PRIVATE-GROUP-ID-08-10" target="_blank"><img src="https://img.shields.io/badge/Private_Group%20id-ARTICLE-orange?style=for-the-badge&logo=hhh" alt="group_id" /></a>
 
