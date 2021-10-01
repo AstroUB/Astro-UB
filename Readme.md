@@ -76,7 +76,7 @@
 • ||𝙁𝙐𝙇𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙁𝙍𝙊𝙈 𝘼𝙎𝙏𝙍𝙊 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 
     𝙄𝙁 𝙂𝙀𝙏𝙎 𝙀𝙍𝙍𝙊𝙍𝙎🫂||
 ```
-# <i><b> sᴜᴘᴘ๏ʀᴛ </b></i>
+# <i><b> sᴜᴘᴘ๏ʀᴛ 🏪</b></i>
 
 <a href="https://telegram.me/Astro_UserBot" target="_blank"><img src="https://img.shields.io/badge/Join-Astro%20Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
 
@@ -108,9 +108,9 @@ height="40px" width="200px" alt="heroku" /></a>
 ## 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 
    <a href="https://replit.com/@loverboyXD/SESSIONSTRING-GEN#main.py" target="_blank"><img src="https://img.shields.io/badge/run-string%20session-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
-## Vɪᴀ Tᴇʀᴍɪɴᴀʟ
+### Vɪᴀ Tᴇʀᴍɪɴᴀʟ
 - Open the terminal.
-- Paste this code.
+- Paste this code. <br>
 `rm -rf Astro-UB && pkg install python git && git clone https://github.com/AstroUB/Astro-Session && pip install telethon python-dotenv && cd Astro-Session/session && bash string.sh`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
@@ -239,7 +239,7 @@ Released under [GNU](/LICENSE) by [LoverBoy](https://github.com/LoverboyXD) .
 •3. Black lightning
 •4. Cat userbot 
 •5. Ultroid
-•6. Criminal
+•6. uniborg
 •7. Lucifer X 
 •°• TELETHON °•°
 °•° LomaniWebs For Telethon•°•
