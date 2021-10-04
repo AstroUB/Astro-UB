@@ -39,6 +39,7 @@ pybase64>=0.4.0
 youtube-search==1.1.1
 youtube-search-python==1.3.2
 youtube-dl==2020.11.24
+ffmpeg
 pyfiglet
 pylast
 python-barcode
