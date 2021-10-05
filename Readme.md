@@ -28,8 +28,9 @@
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/graphs/commit-activity)
 
 [![ForTheBadge built-for-security](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/loverboyXD)
+   
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-for-security](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/loverboyXD)
+
   
 
 
