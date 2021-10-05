@@ -19,18 +19,15 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/AstroUB/Astro-UB)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/AstroUB/Astro-UB#copyright--license)
 [![Python 3.6](https://img.shields.io/badge/Python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/AstroUB/Astro-UB/graphs/commit-activity) 
 [![GitHub license](https://img.shields.io/github/license/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/blob/main/LICENSE) 
 [![GitHub contributors](https://img.shields.io/github/contributors/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://GitHub.com/AstroUB/Astro-UB/graphs/contributors/)
 <p align="center">
-
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/graphs/commit-activity)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-for-security](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/loverboyXD)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/loverboyXD)
-
 <br/>
 <hr> 
 </hr> 
@@ -176,16 +173,6 @@ bash AstroUB
 <br> 
 
 <a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a>
-
-• Light Yagami🇮🇳: <br>
-
- <a href="https://t.me/mrx6767"> <img src="https://img.shields.io/badge/Yagami-Dev-black?style=social&logo=telegram" alt="DEVELOPER" /></a>
- <br> 
- 
- <a href="https://github.com/Lightyagami788" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Yagami-teal?logo=github" /></a>
- 
- <hr> 
- 
  
 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝘼𝘿𝙄𝙏𝙔𝘼🇮🇳<br>𝙁𝙊𝙍 𝙃𝙀𝙇𝙋 𝙄𝙉 𝘾𝙊𝘿𝙀𝙎
  
