@@ -63,7 +63,7 @@ cryptocompare
 cryptosteganography
 apscheduler
 cryptg
-Py
+
 cairosvg
 grapheme
 QScintilla
