@@ -22,7 +22,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/AstroUB/Astro-UB/graphs/commit-activity) 
 [![GitHub license](https://img.shields.io/github/license/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/blob/main/LICENSE) 
 [![GitHub contributors](https://img.shields.io/github/contributors/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://GitHub.com/AstroUB/Astro-UB/graphs/contributors/)
-<p align="center">
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/graphs/commit-activity)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -173,7 +172,9 @@ bash AstroUB
 <br> 
 
 <a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a>
- 
+```sh
+©TEAM OF ƛsτʀ๏ υsєяъ๏т
+```
 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝘼𝘿𝙄𝙏𝙔𝘼🇮🇳<br>𝙁𝙊𝙍 𝙃𝙀𝙇𝙋 𝙄𝙉 𝘾𝙊𝘿𝙀𝙎
  
  </hr>
