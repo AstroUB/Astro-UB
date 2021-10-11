@@ -63,7 +63,7 @@ cryptocompare
 cryptosteganography
 apscheduler
 cryptg
-
+ffmpeg-python
 cairosvg
 grapheme
 QScintilla
@@ -85,4 +85,3 @@ covid
 PyProxyToolkit
 PyPDF2
 imutils
-
