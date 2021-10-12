@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://gitlab.com/.+/.+'
     if [[ $ASTRO_REPO == "ASTRObot" ]]
     then
-        echo "aHR0cHM6Ly9naXRsYWIuY29tL2xvdmVyYm95WEQvQXN0cm9VQi8tL2FyY2hpdmUvbWFpbi9Bc3Ryb1VCLW1haW4uemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRsYWIuY29tL2xvdmVyYm95WEQvQXN0cm8tVUIvLS9hcmNoaXZlL21haW4vQXN0cm9VQi1tYWluLnppcA==" | base64 -d
     elif [[ $ASTRO_REPO == "ASTROBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRsYWIuY29tL2xvdmVyYm95WEQvQXN0cm9VQi8tL2FyY2hpdmUvbWFpbi9Bc3Ryb1VCLW1haW4uemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRsYWIuY29tL2xvdmVyYm95WEQvQXN0cm8tVUIvLS9hcmNoaXZlL21haW4vQXN0cm9VQi1tYWluLnppcA==" | base64 -d
     elif [[ $ASTRO_REPO =~ $regex ]]
     then
         if [[ $ASTRO_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${ASTRO_REPO}/archive/main.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRsYWIuY29tL2xvdmVyYm95WEQvQXN0cm9VQi8tL2FyY2hpdmUvbWFpbi9Bc3Ryb1VCLW1haW4uemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRsYWIuY29tL2xvdmVyYm95WEQvQXN0cm8tVUIvLS9hcmNoaXZlL21haW4vQXN0cm9VQi1tYWluLnppcA==" | base64 -d
     fi
 }
 
