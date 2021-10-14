@@ -173,7 +173,11 @@ bash AstroUB
 
 <a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a>
 ```sh
-©TEAM OF ƛsτʀ๏ υsєяъ๏т
+©TEAM of •A S T R O•
+  1. MELLOWXD
+  2. Eris  
+  3. Light Yagami 
+
 ```
 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝘼𝘿𝙄𝙏𝙔𝘼🇮🇳<br>𝙁𝙊𝙍 𝙃𝙀𝙇𝙋 𝙄𝙉 𝘾𝙊𝘿𝙀𝙎
  
