@@ -164,16 +164,20 @@ bash AstroUB
    <b><i>ƳƠƲƬƲƁЄ ƔƖƊЄƠ</i></b>
 </p>
 
-## 𝙳𝙴𝚅𝙴𝙻𝙿𝙾𝙴𝚁𝚂
+## 𝙳𝙴𝚅𝙴𝙻𝙿𝙾𝙴𝚁S
+</hr>
 
 • 『𝄞⃝Ⱡⓞꪜє℟ 𝅘𝅥𝅯⃝⃤B͛Ꮻ𝐘』🇮🇳:』: <br>
 
  <a href="https://t.me/Alone_loverboy"> <img src="https://img.shields.io/badge/loverboy-leaderdev-black?style=social&logo=telegram" alt="DEVELOPER" /></a>
 <br> 
 
-<a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a>
-```sh
-©TEAM of •A S T R O•
+<a href="https://github.com/loverboyXD" alt="LOVERBOY"><img src="https://img.shields.io/badge/github-Løverbøy-black?logo=github" /></a> 
+
+</hr> 
+
+```shell
+©TEAM of A S T R O
   1. MELLOWXD
   2. Eris  
   3. Light Yagami 
@@ -230,7 +234,7 @@ Released under [GNU](/LICENSE) by [LoverBoy](https://github.com/LoverboyXD) .
 •4. Cat userbot 
 •5. Ultroid
 •6. uniborg
-•7. Lucifer X 
+•7. X-tra-Telegram
 •°• TELETHON °•°
 °•° LomaniWebs For Telethon•°•
 ```
