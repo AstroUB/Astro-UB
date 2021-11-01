@@ -8,7 +8,7 @@
    <i>ƬӇЄ ƑƲƬƲƦƖṠƬƖƇ ƲƁ</i>
 </p>
 
-<b><h4> ASTRO IS A POWNERFULL, USEFULL TELETHON USERBOT</h4></b>
+<b><h4> ASTRO USERBOT IS INSPIRED FROM SPACE...</br>ASTRO IS FASTEST USERBOT AS COMPARE TO OTHER</h4></b>
 <br> 
 
 <hr>
