@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center"><b> 🌌ƛsτʀ๏ υsєяъ๏т🇮🇳</b></h1></p>
+<p align="center"><h1 align="center"><b> 🌌ƛsτʀ๏ υsєяъ๏т🇮🇳</b></h1></p> 
 <p align="center">
    <a href="https://t.me/Astro_UserBot">
       <img src="resources/astroreadme.jpg" border="1px" alt="astro">
