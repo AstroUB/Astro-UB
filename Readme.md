@@ -90,7 +90,7 @@ height="40px" width="200px" alt="heroku" /></a>
 <a href="https://telegra.ph/HOW-TO-GET-PRIVATE-GROUP-ID-08-10" target="_blank"><img src="https://img.shields.io/badge/Private_Group%20id-ARTICLE-orange?style=for-the-badge&logo=hhh" alt="group_id" /></a>
 
 ## 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃
-<a href="https://t.me/lovishmanager_bot" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-OWNER%20ID-teal?style=for-the-badge&logo=telegram" alt="botfather" /></a>
+<a href="https://t.me/JuniorLover_bot" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-OWNER%20ID-teal?style=for-the-badge&logo=telegram" alt="botfather" /></a>
 
 ## 𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐏𝐈 𝐊𝐄𝐘
 <a href="https://dashboard.heroku.com/account" target="_blank"><img src="https://img.shields.io/badge/HEROKU-API%20KEY-purple?style=for-the-badge&logo=heroku" alt="heroku" /></a>
