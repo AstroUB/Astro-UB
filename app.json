@@ -113,9 +113,9 @@
     "value": "",
     "required": false 
   },
-  "SUDO_HNDLR": {
-    "description": "command Handler of sudo users",
-    "value": "",
+  "TZ": {
+    "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+    "value": "Asia/Kolkata",
     "required": false
     }
   },
