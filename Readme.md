@@ -23,6 +23,7 @@
 [![GitHub license](https://img.shields.io/github/license/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/blob/main/LICENSE) 
 [![GitHub contributors](https://img.shields.io/github/contributors/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://GitHub.com/AstroUB/Astro-UB/graphs/contributors/)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AstroUB/Astro-UB?&style=flat-square&logo=github)](https://github.com/AstroUB/Astro-UB/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-for-security](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/loverboyXD)
