@@ -82,7 +82,7 @@ langdetect
 fontTools
 pdf2docx
 covid
-PyProxyToolkit
+PyProxyToolkit 
 PyPDF2
 imutils
 htmlwebshot
