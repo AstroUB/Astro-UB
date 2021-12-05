@@ -85,6 +85,6 @@ covid
 PyProxyToolkit 
 PyPDF2
 imutils 
-opencv-python==4.5.4.60
+opencv-python
 htmlwebshot
 shazamio==0.0.5
