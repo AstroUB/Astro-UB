@@ -85,3 +85,4 @@ covid
 PyProxyToolkit
 PyPDF2
 imutils
+htmlwebshot
