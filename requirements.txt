@@ -88,4 +88,4 @@ imutils
 
 opencv-contrib-python
 htmlwebshot
-shazamio
+
