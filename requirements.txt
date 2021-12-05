@@ -86,6 +86,6 @@ PyProxyToolkit
 PyPDF2 
 imutils 
 
-opencv-python-headless
+
 htmlwebshot
 shazamio==0.0.5
