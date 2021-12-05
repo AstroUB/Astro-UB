@@ -83,9 +83,9 @@ fontTools
 pdf2docx
 covid
 PyProxyToolkit 
-PyPDF2
+PyPDF2 
 imutils 
-apt+get 
+
 opencv-python-headless
 htmlwebshot
 shazamio==0.0.5
