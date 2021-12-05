@@ -86,6 +86,6 @@ PyProxyToolkit
 PyPDF2 
 imutils 
 
-opencv-python
+
 htmlwebshot
 
