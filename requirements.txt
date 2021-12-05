@@ -86,4 +86,4 @@ PyProxyToolkit
 PyPDF2 
 imutils 
 htmlwebshot
-opencv-python-headless==4.2.0.32
+opencv-python-headless==4.5.4.60
