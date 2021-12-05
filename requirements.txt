@@ -9,7 +9,7 @@ telethon-session-sqlalchemy
 pyseoanalyzer
 glitch_this
 PyGithub 
-carbonnow
+
 pytesseract
 telethon==1.24.0
 wget
@@ -86,6 +86,6 @@ PyProxyToolkit
 PyPDF2 
 imutils 
 
-
+opencv-contrib-python
 htmlwebshot
 shazamio==0.0.5
