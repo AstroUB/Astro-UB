@@ -85,7 +85,5 @@ covid
 PyProxyToolkit 
 PyPDF2 
 imutils 
-
-
 htmlwebshot
-
+opencv-python-headless==4.2.0.32
