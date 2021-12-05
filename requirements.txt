@@ -11,7 +11,7 @@ glitch_this
 PyGithub 
 carbonnow
 pytesseract
-telethon
+telethon==1.24.0
 wget
 numpy
 pytest
@@ -86,3 +86,4 @@ PyProxyToolkit
 PyPDF2
 imutils
 htmlwebshot
+shazamio==0.0.5
