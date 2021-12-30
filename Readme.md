@@ -178,13 +178,15 @@ bash AstroUB
 
 </hr> 
 
-```shell
-©TEAM of A S T R O
-  1. MELLOWXD
-  2. Eris  
-  3. Light Yagami 
 
-```
+### ©TEAM of A S T R O
+#### ⚙️ Red Dawn: </br> 
+<a herf="https://t.me/r3dawn"> <img src="https://img.shields.io/badge/Eris-PiroDev-black?style=social&logo=telegram" alt="Piro bhiya" /></a>
+</br> 
+<a herf="https://GitHub.com/e3ris"> <img src="https://img.shields.io/badge/github-E3is-teal?logo=github" alt="bhiya ka GitHub" /></a>
+
+
+
 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝘼𝘿𝙄𝙏𝙔𝘼🇮🇳<br>𝙁𝙊𝙍 𝙃𝙀𝙇𝙋 𝙄𝙉 𝘾𝙊𝘿𝙀𝙎
  
  </hr>
