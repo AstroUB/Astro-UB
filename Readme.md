@@ -179,7 +179,7 @@ bash AstroUB
 </hr> 
 
 
-### ©TEAM of A S T R O
+## ©тҽɑʍ օƒ ƛsτʀ๏
 #### ⚙️ Red Dawn: </br> 
 <a herf="https://t.me/r3dawn"> <img src="https://img.shields.io/badge/Eris-PiroDev-black?style=social&logo=telegram" alt="Piro bhiya" /></a>
 </br> 
