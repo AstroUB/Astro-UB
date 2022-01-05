@@ -87,3 +87,4 @@ PyPDF2
 imutils 
 htmlwebshot
 opencv-python-headless==4.5.4.60
+scikit-image
