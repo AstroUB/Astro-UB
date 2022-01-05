@@ -180,6 +180,10 @@ bash AstroUB
 
 
 ## ©тҽɑʍ օƒ ƛsτʀ๏
+#### Light Yagami: </br> 
+<a herf="https://t.me/mrx67677"> <img src="https://img.shields.io/badge/Light-Yagami-black?style=social&logo=telegram" alt="Patner" /></a>
+</br> 
+<a herf="https://GitHub.com/lightyagami788 "> <img src="https://img.shields.io/badge/github-Light-blue?logo=github" alt="chutku ka GitHub" /></a>
 #### ⚙️ Red Dawn: </br> 
 <a herf="https://t.me/r3dawn"> <img src="https://img.shields.io/badge/Eris-PiroDev-black?style=social&logo=telegram" alt="Piro bhiya" /></a>
 </br> 
