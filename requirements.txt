@@ -36,9 +36,9 @@ oauth2client
 psycopg2-binary==2.8.6 
 pySmartDL
 pybase64>=0.4.0
-youtube-search==1.1.1
+youtube-search
 youtube-search-python
-youtube-dl==2020.11.24
+youtube-dl
 ffmpeg
 pyfiglet
 pylast
@@ -87,4 +87,4 @@ PyPDF2
 imutils 
 htmlwebshot
 opencv-python-headless==4.5.4.60
-scikit-image
+scikit-image==0.19.1
