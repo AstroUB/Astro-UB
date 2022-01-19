@@ -31,7 +31,7 @@
     "required": true
   },
   "OWNER_ID": {
-    "description": "Your Telegram Account id get from @Lovishmanager_bot",
+    "description": "Your Telegram Account id get from @JuniorLover_bot",
     "value": ""
   },
   "OWNER_USERNAME": {
