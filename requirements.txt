@@ -1,5 +1,6 @@
 googletrans
 cryptg 
+pillow==9.0.0
 emoji==0.6.0
 nospamplus 
 cowpy
