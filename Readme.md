@@ -78,7 +78,7 @@
 
 <a href="https://telegram.me/Astro_HelpChat" target="_blank"><img src="https://img.shields.io/badge/Join-Astro%20Support-brown.svg?style=for-the-badge&logo=Telegram"></a>
 # 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
-<a href="https://heroku.com/deploy?template=https://github.com/AstroUB/Astro-UB" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
+<a href="https://heroku.com/deploy?template=https://github.com/AstroUB/Astro-Deployment" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
 height="40px" width="200px" alt="heroku" /></a>
     
 <details><summary> <h1 align="left">𝙂𝙀𝙏 𝘼𝙇𝙇 𝙍𝙀𝙌𝙐𝙄𝙍𝙀𝙈𝙀𝙉𝙏𝙎</h1> </summary>
