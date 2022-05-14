@@ -84,7 +84,8 @@ fontTools
 pdf2docx
 covid
 PyProxyToolkit 
-PyPDF2 
+PyPDF2
+pyrogram
 imutils 
 htmlwebshot
 opencv-python-headless==4.5.4.60
