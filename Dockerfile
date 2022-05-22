@@ -28,4 +28,4 @@ RUN pip3 install -U pip \
 RUN apt autoremove --purge
 
 # initialise app
-CMD [ "python3", "-m", "reboot.py" ]
+CMD [ "python3", "-m", "astro.py" ]
