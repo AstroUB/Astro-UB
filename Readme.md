@@ -77,9 +77,9 @@
 <a href="https://telegram.me/Astro_UserBot" target="_blank"><img src="https://img.shields.io/badge/Join-Astro%20Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://telegram.me/Astro_HelpChat" target="_blank"><img src="https://img.shields.io/badge/Join-Astro%20Support-brown.svg?style=for-the-badge&logo=Telegram"></a>
-# 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
-<a href="https://heroku.com/deploy?template=https://github.com/LoverboyXD/Deploy" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
-height="40px" width="200px" alt="heroku" /></a>
+# 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗧𝗢 𝗩𝗘𝗥𝗖𝗘𝗟:
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAstroUB%2FAstro-UB%2F&env=API_ID,API_HASH,STRING_SESSION,PRIVATE_GROUP_ID,OWNER_ID,OWNER_USERNAME,BOT_TOKEN,BOT_USERNAME,HNDLR&envDescription=These%20are%20nesssessary%20keys%20you%20can%20add%20Other%20Manually%20&project-name=astro-ub&repo-name=astro-ub"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
+
     
 <details><summary> <h1 align="left">𝙂𝙀𝙏 𝘼𝙇𝙇 𝙍𝙀𝙌𝙐𝙄𝙍𝙀𝙈𝙀𝙉𝙏𝙎</h1> </summary>
 
