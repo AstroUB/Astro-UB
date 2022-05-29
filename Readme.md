@@ -148,7 +148,10 @@ bash AstroUB
 [+] API_HASH: enter Your API_HASH
 [+] STRING_SESSION: Your String Session
 [+] PRIVATE_GROUP_ID: Your Private_Group_id it must starts from -100
-
+[+] OWNER_ID: Your telegram ID
+[+] OWNER_USERNAME: Your telegram username 
+[+] BOT_TOKEN: Your bot token 
+[+] BOT_USERNAME: Your bot username 
 ```
 </details>
 
